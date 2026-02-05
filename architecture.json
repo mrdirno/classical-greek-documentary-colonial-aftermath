@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_documentary_colonial_aftermath",
+  "title": "The Aftermath: Aesthetics of Abandonment",
+  "tagline": "In the ruins of empire, three scholars uncover a secret that rewrites history—and threatens to bury them.",
+  "target_words": 70000,
+  "actual_words": 70686,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Archaeology of Power",
+    "Silence as a Colonial Artifact",
+    "The Possessive Nature of Cultural Love",
+    "Myth as a Living, Dangerous Substance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Marble Meal",
+      "words": 2945
+    },
+    {
+      "ch": 2,
+      "title": "The Unfulfilled Drachma",
+      "words": 2945
+    },
+    {
+      "ch": 3,
+      "title": "Noise That Has Stopped",
+      "words": 2945
+    },
+    {
+      "ch": 4,
+      "title": "The Geometric Owl",
+      "words": 2945
+    },
+    {
+      "ch": 5,
+      "title": "Sophia's Primary Purpose",
+      "words": 2945
+    },
+    {
+      "ch": 6,
+      "title": "What They Found",
+      "words": 2945
+    },
+    {
+      "ch": 7,
+      "title": "The Venetian Cannonball",
+      "words": 2945
+    },
+    {
+      "ch": 8,
+      "title": "Ottoman Mortar",
+      "words": 2945
+    },
+    {
+      "ch": 9,
+      "title": "Brutalist Shelter",
+      "words": 2945
+    },
+    {
+      "ch": 10,
+      "title": "The Guide's Yellow Umbrella",
+      "words": 2945
+    },
+    {
+      "ch": 11,
+      "title": "A Different Era of Scholarship",
+      "words": 2945
+    },
+    {
+      "ch": 12,
+      "title": "The Faulty Foundation",
+      "words": 2945
+    },
+    {
+      "ch": 13,
+      "title": "The Curator of Echoes",
+      "words": 2945
+    },
+    {
+      "ch": 14,
+      "title": "The Secret Without the Fear",
+      "words": 2945
+    },
+    {
+      "ch": 15,
+      "title": "Borrowed Light",
+      "words": 2945
+    },
+    {
+      "ch": 16,
+      "title": "The Saronic Gulf in Brass",
+      "words": 2945
+    },
+    {
+      "ch": 17,
+      "title": "Grilling Meat and Exhaust",
+      "words": 2945
+    },
+    {
+      "ch": 18,
+      "title": "The Walnut Icon",
+      "words": 2945
+    },
+    {
+      "ch": 19,
+      "title": "Resinated and Sharp",
+      "words": 2945
+    },
+    {
+      "ch": 20,
+      "title": "The Cicadas' Electric Scream",
+      "words": 2945
+    },
+    {
+      "ch": 21,
+      "title": "A Possessive Verb",
+      "words": 2945
+    },
+    {
+      "ch": 22,
+      "title": "The Telesterion Wall",
+      "words": 2945
+    },
+    {
+      "ch": 23,
+      "title": "The Final, Furious Volume",
+      "words": 2945
+    },
+    {
+      "ch": 24,
+      "title": "The Bones of the Place",
+      "words": 2946
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern tourist's photo accidentally captures a spectral figure in the ruins, visible only later on their phone screen, and they become obsessed with returning to the site.",
+      "Create a monologue from the perspective of the fallen Nike statue, describing the centuries of occupation, plunder, and neglect she has witnessed from her vantage point in the dust.",
+      "Imagine a short story about Sophia's grandfather, the water-carrier for the German archaeologists, focusing on a single small artifact he secretly pockets and the guilt/connection it creates for his descendants.",
+      "Write a 'found document'—a page from Professor Rallis's sketchbook, containing not just a drawing of a ruin, but his furious, scribbled marginalia about what he sees and what it means."
+    ],
+    "technical": [
+      "Build an interactive map of a fictional archaeological site like Eleusis, where users can click on different ruins (Temple, Telesterion, Sacred Way) to reveal layered historical annotations—Classical, Venetian, Ottoman, Modern—visualizing the 'colonial aftermath'.",
+      "Create a generative text tool that mimics Rallis's voice: input a description of a modern object or scene, and it outputs a cynical, historically-laden critique in the style of the Professor's diatribes."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "W.G. Sebald (for the melancholic archaeology of memory and ruin)",
+      "Maggie Nelson (for the blending of critical theory with intimate, visceral prose)",
+      "Derek Walcott (for the post-colonial perspective on classical tradition and landscape)",
+      "Anna Akhmatova (for the theme of bearing witness to historical erasure under pressure)"
+    ]
+  },
+  "cover_prompt": "Three classical scholars, one holding a fragile, glowing ceramic shard inscribed with impossible pre-colonial Greek letters, kneel in tense discovery within the ruins of a colossal, vine-strangled colonial library, its shelves toppled and archives scattered like bones, [Detailed Scene & Context: the scene is a hybrid space—a grand 19th-century European library built atop and now being consumed by the stark, geometric ruins of a much older Greek structure, with colonial maps peeling from walls to reveal ancient frescoes depicting altered myths], [Artistic Style & Medium: in the atmospheric and hauntingly detailed style of a documentary photograph by Sebastião Salgado, combined with the architectural precision and decay of Piranesi's etchings and the textured, material depth of a Gerhard Richter painting], [Composition & Camera: book cover framing, a centered but asymmetrical composition where the scholars are a small focal point amidst overwhelming architecture, shot from a low, dramatic angle looking up through collapsed ceilings toward a fractured sky], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single shaft of dusty sunlight, illuminating the dust and decay, with a color palette of desaturated sepia, ash grey, and eroded stone, punctuated only by the unnatural bioluminescent blue of the ceramic artifact], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
