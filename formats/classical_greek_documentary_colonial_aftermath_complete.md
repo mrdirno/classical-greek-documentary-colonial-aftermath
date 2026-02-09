@@ -1,6 +1,10 @@
+# Chapter 1
+
 ## **Chapter 1**
 
-The marble was cool against his cheek. It was the first thing he registered, a smooth, unyielding coldness seeping into his skin. The second was the taste of dust and blood, metallic and ancient, coating his tongue. He opened his eyes to a world turned on its side. A forest of stone legs, sandaled and muscular, marched past his field of vision. A colossal foot, its toes chipped by centuries, rested inches from his nose. He was lying at the base of a fallen giant.
+Pella’s harbor stank of wet marble and salt. Not the clean scent of a working port, but the sour odor of monuments left to the sea. A trireme’s shattered keel breached the waterline like a broken spine, its gilded ram now home to gulls. We came to document glory. We found only the geometry of absence.
+
+
 
 Alexandros pushed himself up, his palms scraping on grit and pulverized marble. The world righted itself with a dizzying lurch. He was in the cella, the inner chamber of the temple. Or what was left of it. The roof was a memory, a ragged frame for the hard, blue Attic sky. Columns lay like felled trees, their drums separated like vertebrae. The great cult statue of the goddess was gone, only the massive plinth remaining, stained by weather and time. But the giant at his feet was a lesser deity, a Nike perhaps, that had toppled from a pediment. Her serene stone face was cracked clean through, one eye staring blankly at the heavens, the other at the earth.
 
@@ -152,6 +156,8 @@ He stood, cradling the fragment. The double-headed eagle stared blankly into the
 
 “The question is what it is doing *now*.”
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The fragment sat on the wobbly metal table between them, a silent, soil-caked accusation. Dawn had come, a pale, watery light seeping into Sophia’s rooftop terrace, doing little to dispel the chill that had settled in Alexandros’s bones. The kerosene lamp was gone, replaced by a pot of thick, black coffee that Sophia had banged down before retreating, her lips pressed into a thin line of disapproval.
@@ -287,6 +293,8 @@ The motorcycle engine revved once, then faded away.
 Rallis said nothing. He walked to the iconostasis, to a small, dark icon of the Archangel Michael, the slayer of dragons. He looked from the ancient, stylized face of the angel to the cloth-wrapped fragment in his satchel.
 
 “There are no coincidences in a haunted house,” he said, his voice echoing softly in the empty church. “Only echoes. And we have just shouted into the dark.”
+
+# Chapter 3
 
 ## **Chapter 3**
 
